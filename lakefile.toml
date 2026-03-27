@@ -1,0 +1,10 @@
+name = "FormalProofs"
+version = "0.1.0"
+defaultTargets = ["FormalProofs"]
+
+[[lean_lib]]
+name = "FormalProofs"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"

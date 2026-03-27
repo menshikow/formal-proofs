@@ -1,0 +1,9 @@
+# Lake / Lean build artifacts
+/.lake/
+/build/
+
+# macOS
+.DS_Store
+
+# Editor settings
+/.vscode/
